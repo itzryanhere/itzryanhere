@@ -5,7 +5,7 @@ Ready ? Okay !
 ### My Devices : 
 - Samsung Galaxy A53 5G (primary)
 - Samsung Galaxy A50 (second hand)
-- Samsung Galaxy J7 2016 (idk hand)
+- Samsung Galaxy J7 2017 (idk hand)
 
 ### My Skills (WIP) :
  <p align="center">

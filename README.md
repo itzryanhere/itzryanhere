@@ -14,7 +14,7 @@ Ready ? Okay !
 </p>
 
 ### My Telegram and Discord
-[My Telegram Account](https://t.me/itzryanhere)
-[My Telegram Group](https://t.me/ryanmalll)
-[My Telegram Channel](https://t.me/ryanupdate)
-Discord : Ryanmt#6976
+- [My Telegram Account](https://t.me/itzryanhere)
+- [My Telegram Group](https://t.me/ryanmalll)
+- [My Telegram Channel](https://t.me/ryanupdate)
+- Discord : Ryanmt#6976

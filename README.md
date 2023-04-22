@@ -1,16 +1,20 @@
-### Hi there 👋
+# hemlo (before we start let's kang readme from giovany or royna) 
+Ready ? Okay !
 
-<!--
-**itzryanhere/itzryanhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Ryan, 16 y.o, french guy
+### My Devices : 
+- Samsung Galaxy A53 5G (primary)
+- Samsung Galaxy A50 (second hand)
+- Samsung Galaxy J7 2016 (idk hand)
 
-Here are some ideas to get you started:
+### My Skills (WIP) :
+ <p align="center">
+ <img src="https://raw.githubusercontent.com/itzryanhere/readme-generator/master/generated/languages.svg"/>
+ <img src="https://raw.githubusercontent.com/itzryanhere/readme-generator/master/generated/overview.svg"/>
+</p>t
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Telegram and Discord
+[My Telegram Account](https://t.me/itzryanhere)
+[My Telegram Group](https://t.me/ryanmalll)
+[My Telegram Channel](https://t.me/ryanupdate)
+Discord : Ryanmt#6976

@@ -11,7 +11,7 @@ Ready ? Okay !
  <p align="center">
  <img src="https://raw.githubusercontent.com/itzryanhere/readme-generator/master/generated/languages.svg"/>
  <img src="https://raw.githubusercontent.com/itzryanhere/readme-generator/master/generated/overview.svg"/>
-</p>t
+</p>
 
 ### My Telegram and Discord
 [My Telegram Account](https://t.me/itzryanhere)
